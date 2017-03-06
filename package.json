@@ -1,0 +1,27 @@
+{
+  "name": "lolbuilds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickykwn/LoLBuilds.git"
+  },
+  "author": "Donald Highe, Nicky Kwan, Robert Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickykwn/LoLBuilds/issues"
+  },
+  "homepage": "https://github.com/nickykwn/LoLBuilds#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "node": "0.0.0",
+    "path": "^0.12.7"
+  }
+}
