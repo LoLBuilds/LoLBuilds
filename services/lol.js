@@ -32,5 +32,3 @@ function getChamps(req, res, next) {
 }
 
 module.exports = { getFreeChamps, getChamps };
-
-
